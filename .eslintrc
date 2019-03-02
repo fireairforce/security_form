@@ -1,0 +1,7 @@
+{
+  "extends": "eslint-config-umi",
+  "rules":{
+    "eqeqeq":["off"],
+    "no-unused-vars":["off"]
+  }
+}
